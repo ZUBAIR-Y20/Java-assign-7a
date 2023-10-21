@@ -1,0 +1,26 @@
+button{
+    font-size: 20px;
+    background:  #09f859;
+    width: 220px;
+    height: 50px;
+   
+}
+h1{
+font-size: 50px;
+margin-top: auto;
+color: aqua;
+}
+p{
+    margin-top: auto;
+    font-size: 30px;
+    color: rgb(169, 73, 248);
+}
+
+input{
+    margin-top: auto;
+    font-size: 20px;
+    height: 50px;
+    width: 250px;
+    background: rgb(72, 202, 159);
+   
+}
